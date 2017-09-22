@@ -1,6 +1,7 @@
 # Fortinet_Assessment
 
 References: <br>
+https://courses.cs.washington.edu/courses/cse143/11wi/eclipse-tutorial/junit.shtml <br>
 https://www.hackerrank.com/ <br>
 https://leetcode.com/ <br>
 http://www.geeksforgeeks.org/ <br>
@@ -14,3 +15,4 @@ https://stackoverflow.com/questions/1217736/how-to-write-unit-tests-for-database
 https://stackoverflow.com/questions/30710/how-to-unit-test-an-object-with-database-queries <br>
 https://stackoverflow.com/questions/16261838/junit-test-case-for-database-insert-method-with-dao-and-web-service <br>
 https://stackoverflow.com/questions/22651711/junit-test-for-service-and-dao-layer <br>
+https://dzone.com/articles/singleton-design-pattern-%E2%80%93
